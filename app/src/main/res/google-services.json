@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "27442423396",
+    "project_id": "firebase-safetyapp"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:27442423396:android:0cdb01bd10f83515",
+        "android_client_info": {
+          "package_name": "com.example.shikt.safetyapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "27442423396-btficrhvgm12b21up04dfn7kfrnsk4rq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shikt.safetyapp",
+            "certificate_hash": "0E4EE2E0F6E5DC9FFABB0A029B61D67F75C7C7F7"
+          }
+        },
+        {
+          "client_id": "27442423396-4d6khfjlip0cr7vh28h2s6c9mdl0ahtp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnrDeQZ_ErCKUaK-pttBCf_hF_o6_nnKQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
